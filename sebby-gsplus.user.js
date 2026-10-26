@@ -23,7 +23,7 @@
         li.id = 'navsebby';
 
         const a = document.createElement('a');
-        a.href = 'https://gamesensical.wtf/forum/profile.php?id=22';
+        a.href = 'https://gamesensical.wtf/forums/profile.php?id=22';
         a.textContent = 'sebby';
 
         // Appearance
