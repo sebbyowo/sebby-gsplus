@@ -3,7 +3,7 @@
 // @namespace    https://gamesensical.wtf/
 // @version      1.0
 // @description  Adds a "sebby" button directly before Profile
-// @match        https://gamesensical.wtf/forum/*
+// @match        https://gamesensical.wtf/forums/*
 // @run-at       document-end
 // @grant        none
 // ==/UserScript==
